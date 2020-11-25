@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "uninitialized.application.id",
+    "package_name": "com.kmef78.instantappdemo",
     "sha256_cert_fingerprints":
     ["63:22:14:20:53:54:47:05:C2:E7:26:59:07:73:6D:78:F8:36:35:71:8B:36:D3:19:07:E0:A8:83:27:A9:F2:90"]
   }
